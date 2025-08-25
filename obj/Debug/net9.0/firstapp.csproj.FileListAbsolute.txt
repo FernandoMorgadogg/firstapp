@@ -33,3 +33,4 @@ C:\Users\Fernando Morgado\Documents\estudos\firstapp\obj\Debug\net9.0\refint\fir
 C:\Users\Fernando Morgado\Documents\estudos\firstapp\obj\Debug\net9.0\firstapp.pdb
 C:\Users\Fernando Morgado\Documents\estudos\firstapp\obj\Debug\net9.0\firstapp.genruntimeconfig.cache
 C:\Users\Fernando Morgado\Documents\estudos\firstapp\obj\Debug\net9.0\ref\firstapp.dll
+C:\Users\Fernando Morgado\Documents\estudos\firstapp\obj\Debug\net9.0\firstapp.sourcelink.json
